@@ -1,0 +1,15 @@
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.csproj.AssemblyReference.cache
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\AlbertM\Desktop\Geekbrains\C#\Homework8\Task1\obj\Debug\net7.0\ref\Task1.dll
